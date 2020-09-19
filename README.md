@@ -7,6 +7,8 @@ I've moved on to other things. But if you want to know what client I'll be using
 
 https://meteorclient.com
 
+Again, if you do use any hacked clients, respect boundaries set by the communities and DONT use them where they aren't wanted.
+
 ### If anyone ANYONE has a better clickgui I can use let me know in issues.
 
 
